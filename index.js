@@ -7,6 +7,6 @@ const newHeader = document.createElement("h1")
 
 newHeader.id = "victory"
 
-newHeader.innerHTML ="Mercy is the champion"
+newHeader.innerHTML ="Tevin is the champion"
 
 document.body.prepend(newHeader)
